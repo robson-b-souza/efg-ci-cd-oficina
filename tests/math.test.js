@@ -1,4 +1,4 @@
-const soma = require("../math.js");
+const soma = require("../src/math.js");
 
 test("deve somar 2 + 2 e retornar 4", () => {
   // Arrange (Organizar)
