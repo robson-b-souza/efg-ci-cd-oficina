@@ -1,0 +1,26 @@
+{
+  "name": "efg-jest-hands-on",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao repositório prático da oficina! Aqui você vai transformar seu código em uma fortaleza inquebrável.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robson-b-souza/efg-ci-cd-oficina.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/robson-b-souza/efg-ci-cd-oficina/issues"
+  },
+  "homepage": "https://github.com/robson-b-souza/efg-ci-cd-oficina#readme",
+  "devDependencies": {
+    "jest": "30.4.2"
+  }
+}
