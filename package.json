@@ -8,6 +8,9 @@
     "test:watch": "jest --watchAll",
     "test:coverage": "jest --coverage"
   },
+  "engines": {
+    "node": "24"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/robson-b-souza/efg-ci-cd-oficina.git"
